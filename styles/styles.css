@@ -191,4 +191,13 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__cv {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__cv__conteudo {
+        width: auto;
+    }
 }
